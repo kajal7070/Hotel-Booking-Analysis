@@ -6,9 +6,8 @@ This project contains the real-world data record of hotel bookings of a city and
 ▪ best time to book a hotel
 
 ▪ peak season
-<p align="left">
-  <img src="https://1drv.ms/i/s!Agxno_Actig2imTk_2k_lXL98X11?e=rEGl1O" width="450" alt="accessibility text">
-</p>
+
+        [https://1drv.ms/i/s!Agxno_Actig2imTk_2k_lXL98X11?e=rEGl1O](https://1drv.ms/u/s!Agxno_Actig2imbC0N_YkXEYoFKA?e=ArrFtm)https://1drv.ms/u/s!Agxno_Actig2imbC0N_YkXEYoFKA?e=ArrFtm
 
 
 
